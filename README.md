@@ -1,7 +1,7 @@
 # Strategy & Market Analysis: Digital Health – Headspace Health
 
 <p align="center">
-  <img src="./strategic-implications.png" width="100%">
+  <img src="./headspace-cover.png" width="100%">
 </p>
 
 <p align="center">
