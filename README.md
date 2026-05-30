@@ -47,6 +47,13 @@ The project aimed to:
 - Examine risks associated with AI integration
 - Develop evidence-based strategic recommendations
 
+---
+
+<p align="center">
+  <img src="./stp-analysis.png" width="100%">
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F47C48&height=40&text=STP%20Analysis&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
 ### Segmentation
@@ -85,29 +92,38 @@ Key differentiators include:
 - Employer-sponsored access model
 - AI-enabled personalisation capabilities
 
-<p align="center">
-  <img src="./stp-analysis.png" width="100%">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E9E9E9&height=40&text=SWOT%20Analysis&fontSize=20&fontColor=2B2B2B" width="100%"/>
-
-| Strengths | Weaknesses |
-|------------|------------|
-| Strong brand recognition in digital mental wellness | Engagement drop-off common in digital health applications |
-| Hybrid wellness + coaching + therapy model | Dependence on employer-sponsored contracts |
-| Scalable digital delivery | Potential concerns regarding AI credibility |
-| Mobile-first accessibility | Risk of being perceived as insufficient for severe mental health needs |
-
-| Opportunities | Threats |
-|------------|------------|
-| Rising demand for employee wellbeing programmes | Growing competition within digital mental health |
-| Expansion of telehealth services | Regulatory scrutiny around AI |
-| Data-driven personalisation | Data privacy and governance concerns |
-| Integration with healthcare systems | Economic pressure on corporate wellbeing budgets |
+---
 
 <p align="center">
   <img src="./swot-analysis.png" width="100%">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E9E9E9&height=40&text=SWOT%20Analysis&fontSize=20&fontColor=2B2B2B" width="100%"/>
+
+### Key Takeaways
+
+**Strengths**
+- Strong brand recognition
+- Hybrid wellness and clinical model
+- Scalable digital delivery
+
+**Weaknesses**
+- User engagement drop-off
+- Dependence on employer contracts
+- AI credibility concerns
+
+**Opportunities**
+- Growth in employee wellbeing programmes
+- Telehealth expansion
+- Healthcare system integration
+
+**Threats**
+- Increased competition
+- Regulatory scrutiny
+- Privacy and governance concerns
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F47C48&height=40&text=Strategic%20Insights&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
